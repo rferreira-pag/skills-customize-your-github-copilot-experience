@@ -1,10 +1,10 @@
 # 📘 Assignment: [Assignment Title]
 
-## 🎯 Objective
+## 🎯 Objetivo
 
 [Brief description of what the student will build or accomplish in this assignment]
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️	[Task 1 Title]
 
