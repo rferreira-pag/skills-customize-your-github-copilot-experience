@@ -22,7 +22,7 @@ Completed program should:
 - Encerrar quando a palavra for adivinhada ou as tentativas acabarem
 - Exibir mensagens de vitória ou derrota
 
-##### Exemplo de execução
+Exemplo de entrada/saída:
 ```
 Palavra: _ _ _ _ _
 Tentativas restantes: 6
